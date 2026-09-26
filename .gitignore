@@ -1,0 +1,15 @@
+# Private TLS keys
+certs/*.key
+
+# Certificate signing requests
+certs/*.csr
+
+# OpenSSL serial files
+certs/*.srl
+
+# Received files
+received_files/
+
+# Python cache
+__pycache__/
+*.pyc
